@@ -1,6 +1,6 @@
 {
   "name": "@project-cli/vite",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "vite APP的cli配置",
   "bin": {
     "vite-create": "bin/vite.js"
