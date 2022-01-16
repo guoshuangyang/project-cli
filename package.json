@@ -1,0 +1,25 @@
+{
+  "name": "@project-cli/vite",
+  "version": "0.0.8",
+  "description": "vite APP的cli配置",
+  "bin": {
+    "vite-create": "bin/vite.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "vite"
+  ],
+  "author": "guoshuangyang0@163.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-json": "^4.1.0",
+    "rollup": "^2.64.0",
+    "rollup-plugin-terser": "^7.0.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
